@@ -1,4 +1,4 @@
-06d9ae8ee620d14e29f835374df61afa *DESCRIPTION
+96206d7528e9580ca05963fd77939f39 *DESCRIPTION
 62082daa40764d5590cd2ab227b5c0bb *NAMESPACE
 43c92fd6c613abe4cc4dc766ae56a36e *R/RcppExports.R
 d4f1ff79da8dfe2a74d7ffe5ced5fdb1 *README.md
@@ -15,7 +15,7 @@ f826c81e65acdaa2f60f09d326eacd85 *man/focus-package.Rd
 4f3762ad98aec0f2038dbbc76e3f77b6 *man/focus_offline.Rd
 6b7f85580a97244027b90fc95de67eff *man/generate_projection_indexes.Rd
 6418c2000a0515380c3ec7998e73ab6d *man/get_statistics.Rd
-9fd44305df80312c1950e7e55900ca7f *src/ARpInfo.h
+d280be59d0f3b9c5156398d38b3b9766 *src/ARpInfo.h
 7de324102330426b832916c86efcd99e *src/Candidate.h
 3043e7c659e0faf26a71b6d9cfb4de9d *src/ChangepointResult.h
 455680f617de176cd215fc20cbba2f36 *src/Costs.h
@@ -27,7 +27,7 @@ c130e9e7d2e3c17956262112400ca374 *src/MultivariateInfo.h
 31ac2e04f81a95969279109608ec9723 *src/NonparametricInfo.h
 0219ee94a11c8623c0e22708b14d2c5e *src/RcppExports.cpp
 6237d67976cc1381ecefb008fbe09c3c *src/focus_ARp.cpp
-ab6e7a8fc5081a0628732d9ea272ccad *src/focus_rcpp_module.cpp
+eb290dc96d271c96bb8cdc12eab60651 *src/focus_rcpp_module.cpp
 633f595167331830856184966a493441 *src/libqhull_r/accessors_r.c
 0cf39f2eaea176c72aec2e7d7b78a055 *src/libqhull_r/geom2_r.c
 b5bfc1b056f16945579951686dc2c428 *src/libqhull_r/geom_r.c
