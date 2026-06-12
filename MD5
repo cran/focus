@@ -1,4 +1,4 @@
-8b34136bda42cbec4a5250eb228119b2 *DESCRIPTION
+f36b9758ca369fcbac8ba48ae57a60e2 *DESCRIPTION
 62082daa40764d5590cd2ab227b5c0bb *NAMESPACE
 488f5d90c963b2d8a20d116299052433 *R/RcppExports.R
 978b75fe035692e22091f0bfd54ad9d6 *README.md
@@ -17,8 +17,8 @@ f826c81e65acdaa2f60f09d326eacd85 *man/focus-package.Rd
 6418c2000a0515380c3ec7998e73ab6d *man/get_statistics.Rd
 67f56dfc197af491a01a7c92ce5db4c3 *src/ARpInfo.h
 b86527882a45a929787eb0528af7144d *src/Candidate.h
-3043e7c659e0faf26a71b6d9cfb4de9d *src/ChangepointResult.h
-455680f617de176cd215fc20cbba2f36 *src/Costs.h
+8fb4d3c8a816761df15b1258df668b0f *src/ChangepointResult.h
+ded8938ed12110692067ffdf36679f2f *src/Costs.h
 54237b0736f9a948c6f5961776c5c56f *src/CostsArp.h
 349479baa97a1818b3670ffb7884f59f *src/CostsNonparametric.h
 291f1f11c35920ca23befc8ddd2fc081 *src/Info.h
@@ -105,3 +105,5 @@ a1f89e5ee8a5330485dcdfc24c819cb3 *src/libqhullcpp/RoadLogEvent.cpp
 2745dda7b45654c78fb54f84b839920a *src/libqhullcpp/usermem_r-cpp.cpp
 5aa6802ec9517c1c52f9f5286736d6aa *src/qhull_all.cpp
 2ed353d49a2e93c8cc4150a6e2ebd81f *src/qhull_c_all.c
+6690dcd17245a8c633160e1c7e480894 *tests/testthat.R
+8f6fff25ad7480386ced98293e471c13 *tests/testthat/test-generic.R
