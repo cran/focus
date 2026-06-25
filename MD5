@@ -1,4 +1,4 @@
-f36b9758ca369fcbac8ba48ae57a60e2 *DESCRIPTION
+0168ee0c8356aaa1b99c2b7b164080d2 *DESCRIPTION
 62082daa40764d5590cd2ab227b5c0bb *NAMESPACE
 488f5d90c963b2d8a20d116299052433 *R/RcppExports.R
 978b75fe035692e22091f0bfd54ad9d6 *README.md
@@ -23,11 +23,11 @@ ded8938ed12110692067ffdf36679f2f *src/Costs.h
 349479baa97a1818b3670ffb7884f59f *src/CostsNonparametric.h
 291f1f11c35920ca23befc8ddd2fc081 *src/Info.h
 96a5e2ee1d1fab33fa6b32c5efa44e9b *src/Makevars
-063768882bf0f2bb4a62089284ceaec8 *src/MultivariateInfo.h
+b62c08309dfd9db0bcfb2b8d655e0bc1 *src/MultivariateInfo.h
 725dcec76c2adfa9af9d9601ea29a395 *src/NonparametricInfo.h
 f9c0ab50bddab079cb815c4d0700067b *src/RcppExports.cpp
 9032d737dc40b185d3fdf6e80d5ec8ef *src/focus_ARp.cpp
-dc5be14c16000cc976e38ad47ae86056 *src/focus_rcpp_module.cpp
+64289ad756243590253079d1b95a16c3 *src/focus_rcpp_module.cpp
 633f595167331830856184966a493441 *src/libqhull_r/accessors_r.c
 0cf39f2eaea176c72aec2e7d7b78a055 *src/libqhull_r/geom2_r.c
 b5bfc1b056f16945579951686dc2c428 *src/libqhull_r/geom_r.c
@@ -106,4 +106,4 @@ a1f89e5ee8a5330485dcdfc24c819cb3 *src/libqhullcpp/RoadLogEvent.cpp
 5aa6802ec9517c1c52f9f5286736d6aa *src/qhull_all.cpp
 2ed353d49a2e93c8cc4150a6e2ebd81f *src/qhull_c_all.c
 6690dcd17245a8c633160e1c7e480894 *tests/testthat.R
-8f6fff25ad7480386ced98293e471c13 *tests/testthat/test-generic.R
+2e378efbdb10bc5e48648d38f879ad7a *tests/testthat/test-generic.R

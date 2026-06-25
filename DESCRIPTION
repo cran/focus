@@ -2,8 +2,8 @@ Package: focus
 Type: Package
 Title: Online Changepoint Detection in Univariate and Multivariate Data
         Streams
-Version: 0.1.7
-Date: 2026-06-12
+Version: 0.1.8
+Date: 2026-06-25
 Authors@R: c(
     person("Gaetano", "Romano", 
            email = "g.romano@lancaster.ac.uk",
@@ -45,7 +45,7 @@ Encoding: UTF-8
 RoxygenNote: 7.2.3
 Suggests: testthat (>= 3.0.0)
 NeedsCompilation: yes
-Packaged: 2026-06-12 14:50:38 UTC; romano
+Packaged: 2026-06-25 11:12:54 UTC; romano
 Author: Gaetano Romano [aut, cre, trl],
   Kes Ward [aut],
   Yuntang Fan [aut],
@@ -57,4 +57,4 @@ Author: Gaetano Romano [aut, cre, trl],
     library),
   The Geometry Center [cph] (Copyright holder of bundled 'Qhull' library)
 Repository: CRAN
-Date/Publication: 2026-06-12 23:20:12 UTC
+Date/Publication: 2026-06-25 11:40:02 UTC
